@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>darkstyle/darkstyle.qss</file>
+        <file>darkstyle/icon_close.png</file>
+        <file>darkstyle/icon_restore.png</file>
+        <file>darkstyle/icon_undock.png</file>
+        <file>darkstyle/icon_branch_closed.png</file>
+        <file>darkstyle/icon_branch_end.png</file>
+        <file>darkstyle/icon_branch_more.png</file>
+        <file>darkstyle/icon_branch_open.png</file>
+        <file>darkstyle/icon_vline.png</file>
+        <file>darkstyle/icon_checkbox_checked.png</file>
+        <file>darkstyle/icon_checkbox_indeterminate.png</file>
+        <file>darkstyle/icon_checkbox_unchecked.png</file>
+        <file>darkstyle/icon_checkbox_checked_pressed.png</file>
+        <file>darkstyle/icon_checkbox_indeterminate_pressed.png</file>
+        <file>darkstyle/icon_checkbox_unchecked_pressed.png</file>
+        <file>darkstyle/icon_checkbox_checked_disabled.png</file>
+        <file>darkstyle/icon_checkbox_indeterminate_disabled.png</file>
+        <file>darkstyle/icon_checkbox_unchecked_disabled.png</file>
+        <file>darkstyle/icon_radiobutton_checked.png</file>
+        <file>darkstyle/icon_radiobutton_unchecked.png</file>
+        <file>darkstyle/icon_radiobutton_checked_pressed.png</file>
+        <file>darkstyle/icon_radiobutton_unchecked_pressed.png</file>
+        <file>darkstyle/icon_radiobutton_checked_disabled.png</file>
+        <file>darkstyle/icon_radiobutton_unchecked_disabled.png</file>
+        <file>darkstyle/icon_window_close.png</file>
+        <file>darkstyle/icon_window_maximize.png</file>
+        <file>darkstyle/icon_window_minimize.png</file>
+        <file>darkstyle/icon_window_restore.png</file>
+        <file>darkstyle/about.png</file>
+        <file>darkstyle/message.png</file>
+        <file>darkstyle/notification.png</file>
+        <file>darkstyle/start.png</file>
+        <file>darkstyle/topic.png</file>
+        <file>darkstyle/premium.png</file>
+        <file>darkstyle/accountpage.png</file>
+        <file>darkstyle/cheatspage.png</file>
+        <file>darkstyle/newspage.png</file>
+        <file>darkstyle/userspage.png</file>
+        <file>darkstyle/stop.png</file>
+        <file>darkstyle/update.png</file>
+        <file>darkstyle/icon.png</file>
+        <file>darkstyle/logo.png</file>
+        <file>darkstyle/default.png</file>
+    </qresource>
+</RCC>
