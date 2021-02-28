@@ -8,4 +8,4 @@ WoXArea Qt Loader Project
 #### Screenshots:
 
 #1
-![Screenshot](https://raw.githubusercontent.com/lib-Pluton/Qt-Project/master/Qt-Project/images/login.png)
+![Screenshot](https://raw.githubusercontent.com/lib-Pluton/Qt-Project/main/images/login.png)
