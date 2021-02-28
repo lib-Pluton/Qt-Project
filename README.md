@@ -1,5 +1,9 @@
 # Qt-Project
+
 Qt + Cpp
+
+#### That is old loader from WoXArea. If you want to use that loader, you need to learn C++ and Qt. Or if u already know that why you are reading that text.
+
 
 WoXArea Qt Loader Project
 
@@ -24,4 +28,3 @@ WoXArea Qt Loader Project
 
 #### 6 Error Tab
 ![Screenshot](https://raw.githubusercontent.com/lib-Pluton/Qt-Project/main/images/errortab.png)
-
