@@ -22,4 +22,6 @@ WoXArea Qt Loader Project
 #### 5 Account Tab
 ![Screenshot](https://raw.githubusercontent.com/lib-Pluton/Qt-Project/main/images/accounttab.png)
 
+#### 6 Error Tab
+![Screenshot](https://raw.githubusercontent.com/lib-Pluton/Qt-Project/main/images/errortab.png)
 
