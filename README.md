@@ -7,6 +7,7 @@
 #### WoXArea Qt Loader Project
 
 ### That isn't for template.
+### Coded by Majdev - lib-Pluton
 
 # Screenshots:
 
